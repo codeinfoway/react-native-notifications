@@ -1,4 +1,4 @@
-# react-native-notification
+# react-native-notifications
 
 Handle all aspects of push notifications for your app, including remote and local notifications, interactive notifications, silent notifications, and more. all while supporting all native iOS notification features!
 
